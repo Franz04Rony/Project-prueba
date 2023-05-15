@@ -1,4 +1,13 @@
 *{
-    color:aliceblue;
+    background-color: #fff;
+}
+
+button{
     background-color: black;
+    color: aliceblue;
+    height: 30px;
+    width: 100px;
+}
+button:hover{
+    cursor: pointer;
 }
